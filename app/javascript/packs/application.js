@@ -23,5 +23,5 @@ document.addEventListener('turbolinks:load', () => {
   initSelect2();
   initTyped();
   AOS.init();
-  initStarRating();
+  // initStarRating();
 });
