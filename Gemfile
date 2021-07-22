@@ -26,7 +26,7 @@ gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary', '~> 1.16.0'
-gem 'mime-types', '~> 2.6.2'
+gem 'mime-types'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
